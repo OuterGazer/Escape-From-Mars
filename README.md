@@ -5,6 +5,13 @@ Gameplay preview
 
 ![Ventilator Obstacle 3](https://user-images.githubusercontent.com/71871620/129936173-c924b828-531d-45a9-bb29-86e323a1dd9c.gif)
 
+Some design diagrams
+
+![Ventilator Dodge Annotations](https://user-images.githubusercontent.com/71871620/129953509-ead3108f-913a-4da6-bace-afb1e6557870.png)
+
+![Beginning Mood Annotations](https://user-images.githubusercontent.com/71871620/129953533-1f341ed8-8fbf-4000-8811-c0cb344ed4bb.png)
+
+
 This game is based on the Project Boost section of the GameDev.tv Unity 3D course.
 
 My original implementations are:
