@@ -3,7 +3,7 @@ A 2.5D scrolling, physics-puzzle game where you need to lead a flying rocket to 
 
 Gameplay preview
 
-https://user-images.githubusercontent.com/71871620/129719204-04a26347-8bed-4325-b0d4-11d3e877aaf4.mov
+![Ventilator Obstacle 3](https://user-images.githubusercontent.com/71871620/129936173-c924b828-531d-45a9-bb29-86e323a1dd9c.gif)
 
 This game is based on the Project Boost section of the GameDev.tv Unity 3D course.
 
